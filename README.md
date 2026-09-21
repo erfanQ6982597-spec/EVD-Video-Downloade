@@ -15,3 +15,6 @@ The Windows x64 version is published as a self-contained application,
 so users do not need to install the .NET 8 Runtime separately.
 
 <img width="1672" height="941" alt="ChatGPT Image Sep 17, 2026, 10_11_26 AM" src="https://github.com/user-attachments/assets/6b53381d-dee0-41c3-8676-ec5c3bd25a45" />
+
+source :
+https://github.com/yt-dlp/yt-dlp
