@@ -21,23 +21,31 @@ so users do not need to install the .NET 8 Runtime separately.
 EVD supports downloading from many popular websites and online platforms,
 powered by yt-dlp.
 
+## Supported Platforms
+
+EVD supports downloading from many popular websites and online platforms,
+powered by yt-dlp.
+
+**In most cases, you can download almost any video you want from supported online platforms.**
+
 ### Popular Platforms
 
-- YouTube
-- Instagram
-- TikTok
-- Facebook
-- X (Twitter)
-- Reddit
-- Twitch
-- Vimeo
-- Dailymotion
-- SoundCloud
-- Pinterest
+* YouTube
+* Instagram
+* TikTok
+* Facebook
+* X (Twitter)
+* Reddit
+* Twitch
+* Vimeo
+* Dailymotion
+* SoundCloud
+* Pinterest
 
 > Support may vary depending on website changes and yt-dlp updates.
 > For the complete and up-to-date list of supported extractors, see the
 > yt-dlp documentation.
+
 
 Tools : 
 
@@ -46,4 +54,6 @@ yt-dlp :
 
 FFmpeg :
  https://ffmpeg.org/
+
+ deno : https://deno.com/
 
