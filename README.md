@@ -16,6 +16,29 @@ so users do not need to install the .NET 8 Runtime separately.
 
 <img width="1672" height="941" alt="ChatGPT Image Sep 17, 2026, 10_11_26 AM" src="https://github.com/user-attachments/assets/6b53381d-dee0-41c3-8676-ec5c3bd25a45" />
 
+## Supported Platforms
+
+EVD supports downloading from many popular websites and online platforms,
+powered by yt-dlp.
+
+### Popular Platforms
+
+- YouTube
+- Instagram
+- TikTok
+- Facebook
+- X (Twitter)
+- Reddit
+- Twitch
+- Vimeo
+- Dailymotion
+- SoundCloud
+- Pinterest
+
+> Support may vary depending on website changes and yt-dlp updates.
+> For the complete and up-to-date list of supported extractors, see the
+> yt-dlp documentation.
+
 Tools : 
 
 yt-dlp : 
